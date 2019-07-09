@@ -1,3 +1,5 @@
+'''Probably the least worst way to print out Pascal Triangle'''
+
 a1 = {0: {0: 0, 1: 0}, 1: {0:0,1:1,2:0}}
 def return_dict(a_list):
 	c = {}
